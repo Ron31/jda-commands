@@ -1,1 +1,1 @@
-A simple yet highly customizable, anntoation-driven command library for jda
+A simple yet highly customizable, annotation-driven command library for jda
